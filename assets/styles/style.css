@@ -684,7 +684,7 @@ a.decoration--none {
 }
 
 img {
-  max-width: 100%;
+  max-width: fit-content;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
